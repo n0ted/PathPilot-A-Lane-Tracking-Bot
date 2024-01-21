@@ -63,9 +63,7 @@ The main features of the Lane Tracking Robot include:
 7. Adjust the robot's direction based on the lane slope. If the slope indicates a left or right turn, the robot responds accordingly.
 8. Repeat the process continuously.
 
-(_Add space for images_)
-
-![Image Description](media/image61.png)
+![TRACK](media/image61.png)
 
 
 Feel free to explore and enhance this Lane Tracking Robot project for your specific use case or integrate additional functionalities. If you encounter any issues or have suggestions, please contribute and collaborate!
