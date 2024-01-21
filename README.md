@@ -33,7 +33,6 @@ The main features of the Lane Tracking Robot include:
 ## Software Requirements
 
 - Raspian OS
-- Xming Server
 - PuTTY SSH Session
 - Remote Desktop Connection
 - OpenCV 3.0
