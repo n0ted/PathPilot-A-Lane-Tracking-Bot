@@ -68,4 +68,4 @@ The main features of the Lane Tracking Robot include:
 
 Feel free to explore and enhance this Lane Tracking Robot project for your specific use case or integrate additional functionalities. If you encounter any issues or have suggestions, please contribute and collaborate!
 
-**working on a installation guide**
+**Currently working on the installation guide**
