@@ -65,7 +65,8 @@ The main features of the Lane Tracking Robot include:
 
 (_Add space for images_)
 
-(_Add more modules if applicable_)
+![Image Description](media/image61.png)
+
 
 Feel free to explore and enhance this Lane Tracking Robot project for your specific use case or integrate additional functionalities. If you encounter any issues or have suggestions, please contribute and collaborate!
 
